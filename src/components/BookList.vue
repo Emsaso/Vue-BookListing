@@ -14,10 +14,10 @@
   return {
     title: 'All Books',
     books: [
-      {title: "Theoretical actions", author: "Emil A W Christiansen"},
-      {title: "Tough fairness", author: "Emil A W Christiansen"},
-      {title: "Tangential relevance", author: "Emil A W Christiansen"},
-    ]
+    {title: 'Self-Reliance', author: 'Ralph Waldo Emerson'},
+    {title: 'American Gods', author: 'Neil Gaiman'},
+    {title: 'Amusing Ourselves to Death', author: 'Neil Postman'},
+]
   }
   }
   }
